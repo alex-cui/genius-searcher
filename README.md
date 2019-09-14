@@ -1,10 +1,7 @@
 # Genius Searcher
-![Image of Popup](https://github.com/alex-cui/genius-searcher/blob/master/images/popup.png)
+![image](https://github.com/alex-cui/genius-searcher/blob/master/images/popup.png)
 
 A fast and convenient way to get Genius.com search results!
-
-![Image of Menu](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
-![Image of Search Results](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
 
 ## How to Install
 1. Download this repository<br>
@@ -13,3 +10,7 @@ A fast and convenient way to get Genius.com search results!
 4. Enable 'Developer mode'<br>
 5. Click 'Load unpacked'<br>
 6. Select `chromeplugin` folder from this repository
+
+![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
+
+![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
