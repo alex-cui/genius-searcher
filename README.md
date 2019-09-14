@@ -11,7 +11,7 @@ As a music lover, I look up song lyrics and artists all the time; and personally
 5. Click 'Load unpacked'<br>
 6. Select `chromeplugin` folder from this repository <br>
 
-## Examples
+## Demo
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
 
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
