@@ -1,9 +1,9 @@
 # Genius Searcher
+
 A fast and convenient way to get Genius.com search results!
 
-## How to Install
---------------
 
+## How to Install
 1. Download this repository<br>
 2. Open Chrome<br>
 3. Go to 'Extensions' (Settings --> More Tools --> Extensions)<br>
