@@ -1,0 +1,31 @@
+body {
+    background-color:#FDFF64;
+}
+
+button {
+    border:1px solid black;
+    width:80px;
+}
+
+input {
+    width:200px;
+}
+
+#search {
+    margin-right:5px;
+}
+
+#lucky {
+    margin-left:5px;
+}
+
+.main {
+    width:200px;
+    padding:10px;
+    font-family: sans-serif;    
+    text-align: center;
+}
+
+.button {
+    margin-top:10px
+}

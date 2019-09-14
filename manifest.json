@@ -1,0 +1,23 @@
+{
+   "author": "Alex Cui",
+   "description": "A fast and convenient way to get Genius.com search results!",
+   "manifest_version": 2,
+   "name": "Genius Searcher",
+   "short_name": "Genius Searcher",
+   "version": "1",
+   "browser_action": {
+      "default_popup" : "popup/popup.html"
+   },
+   "background": {
+      "scripts": [ "scripts.js" ],
+      "persistent": true
+   },
+   "permissions": [
+      "contextMenus"
+   ],
+   "icons": {
+      "16": "context-icon.png",
+      "48": "context-icon.png",
+      "128": "context-icon.png"
+    }
+}
