@@ -11,6 +11,7 @@ A fast and convenient way to get Genius.com search results!
 5. Click 'Load unpacked'<br>
 6. Select `chromeplugin` folder from this repository
 
+## Examples
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
 
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
