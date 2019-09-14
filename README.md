@@ -3,6 +3,7 @@
 
 A fast and convenient way to get Genius.com search results!
 
+
 ## How to Install
 1. Download this repository<br>
 2. Open Chrome<br>
@@ -10,6 +11,7 @@ A fast and convenient way to get Genius.com search results!
 4. Enable 'Developer mode'<br>
 5. Click 'Load unpacked'<br>
 6. Select `chromeplugin` folder from this repository
+
 
 ## Examples
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
