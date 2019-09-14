@@ -1,7 +1,10 @@
 # Genius Searcher
+![Image of Popup](https://github.com/alex-cui/genius-searcher/blob/master/images/popup.png)
 
 A fast and convenient way to get Genius.com search results!
 
+![Image of Menu](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
+![Image of Search Results](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
 
 ## How to Install
 1. Download this repository<br>
