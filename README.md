@@ -1,7 +1,7 @@
 # Genius Searcher
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/popup.png)
 
-A fast and convenient way to get Genius.com search results! <br>
+As a music lover, I look up song lyrics and artists all the time; and personally, I think Genius is the best place to get these results. So to save time on clicks, I made this extension to get to your song or artist even faster. <br>
 
 ## How to Install
 1. Download this repository<br>
