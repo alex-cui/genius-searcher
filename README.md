@@ -15,3 +15,5 @@ As a music lover, I look up song lyrics and artists all the time; and personally
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex1.png)
 
 ![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex2.png)
+
+![image](https://github.com/alex-cui/genius-searcher/blob/master/images/ex3.jpg)
